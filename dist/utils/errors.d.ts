@@ -1,0 +1,9 @@
+export declare const NO_USERNAME = "Missing 'username' property";
+export declare const NO_PASSWORD = "Missing 'password' property";
+export declare const NO_TOKEN = "Missing 'token' property";
+export declare const NO_TOKEN_SECRET = "Missing 'tokenSecret' property";
+export declare const NO_HOST_ERROR = "Missing 'host' property.";
+export declare const NO_CONSUMER_KEY_ERROR = "Missing 'consumerKey' property.";
+export declare const NO_PRIVATE_KEY_ERROR = "Missing 'privateKey' property.";
+export declare const NO_VERIFIER_ERROR = "Missing 'verifier' property.";
+export declare const NO_OAUTH_ERROR = "Missing 'oauth' property.";
